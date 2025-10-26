@@ -3,7 +3,7 @@ ARCHIVO	: JUGADOR.JAVA
 FECHA	: 25/10/2025
 DESCRIPCION: MODELO DE DATOS PARA LA ENTIDAD JUGADOR (CORREGIDO).
 *************************************************************************************/
-package Ejercicio5;
+package Actividad1_Torneo;
 
 public class Jugador implements IParticipante {
     private int id_jugador; 

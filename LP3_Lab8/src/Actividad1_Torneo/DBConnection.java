@@ -3,7 +3,7 @@ ARCHIVO	: DBCONNECTION.JAVA
 FECHA	: 25/10/2025
 DESCRIPCION: CLASE DE UTILIDAD PARA GESTIONAR LA CONEXIÓN JDBC A SQLITE.
 *************************************************************************************/
-package Ejercicio5;
+package Actividad1_Torneo;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

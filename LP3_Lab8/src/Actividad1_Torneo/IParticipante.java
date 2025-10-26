@@ -1,4 +1,4 @@
-package Ejercicio5;
+package Actividad1_Torneo;
 
 public interface IParticipante {
     String getNombre();

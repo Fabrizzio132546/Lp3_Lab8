@@ -3,7 +3,7 @@ ARCHIVO	: MAIN.JAVA
 FECHA	: 25/10/2025
 DESCRIPCION: CLASE PRINCIPAL.
 *************************************************************************************/
-package Ejercicio5;
+package Actividad1_Torneo;
 
 public class Main {
     public static void main(String[] args) {

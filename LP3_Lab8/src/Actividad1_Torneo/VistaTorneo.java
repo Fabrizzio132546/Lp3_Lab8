@@ -3,7 +3,7 @@ ARCHIVO	: VISTATORNEO.JAVA
 FECHA	: 25/10/2025
 DESCRIPCION: INTERFAZ DE USUARIO PARA LA GESTIÓN DE TORNEOS Y JUGADORES.
 *************************************************************************************/
-package Ejercicio5;
+package Actividad1_Torneo;
 
 import java.util.List;
 import java.util.Scanner;

@@ -3,7 +3,7 @@ ARCHIVO	: CONTROLADORTORNEO.JAVA
 FECHA	: 25/10/2025
 DESCRIPCION: CONTROLADOR PARA LA GESTIÓN DE TORNEOS CON PERSISTENCIA JDBC EN JUGADORES.
 *************************************************************************************/
-package Ejercicio5;
+package Actividad1_Torneo;
 
 import java.util.ArrayList;
 import java.util.List;

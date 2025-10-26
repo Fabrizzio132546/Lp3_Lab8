@@ -1,4 +1,4 @@
-package Ejercicio5;
+package Actividad1_Torneo;
 
 import java.util.ArrayList;
 import java.util.List;

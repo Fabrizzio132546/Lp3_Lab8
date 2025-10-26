@@ -3,7 +3,7 @@ ARCHIVO	: JUGADORDAO.JAVA
 FECHA	: 25/10/2025
 DESCRIPCION: DAO PARA LA ENTIDAD JUGADOR USANDO JDBC, PREPAREDSTATEMENT Y TRANSACCIONES.
 *************************************************************************************/
-package Ejercicio5;
+package Actividad1_Torneo;
 
 import java.sql.*;
 import java.util.ArrayList;

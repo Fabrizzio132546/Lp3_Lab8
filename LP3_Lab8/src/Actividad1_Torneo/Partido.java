@@ -1,4 +1,4 @@
-package Ejercicio5;
+package Actividad1_Torneo;
 
 public class Partido {
     private Jugador jugador1;
